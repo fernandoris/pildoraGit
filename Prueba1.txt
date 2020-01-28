@@ -1,5 +1,12 @@
 hi
 estamos probando a ve como va
 Ya estamos en el curso.
+<<<<<<< HEAD
 Estoy en la rama PACO
 Estoy en la rama PACO real
+=======
+Estoy en la rama PACO real
+Estoy en la rama PACO
+Estoy en la rama PACO real
+Este cambio lo estoy haciendo en dev pero es para Paco
+>>>>>>> feature/paco
